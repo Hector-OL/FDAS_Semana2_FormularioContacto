@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormularioContacto</string>
+    <string name="lblNombre">Nombre completo</string>
+    <string name="lblFecha">Fecha Nacimiento</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="lblTelefono">Télefono</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblDescripcion">Descripción Contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="lblConfirmar">Confirmar Datos</string>
+    <string name="btnEditarNuevamente">Editar Datos</string>
+</resources>
